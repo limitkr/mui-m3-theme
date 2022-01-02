@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "outDir": "build",
+    "rootDir": "./src",
+    "sourceMap": true,
+  },
+  "include": ["./src/**/*.ts*"],
+  "exclude": ["src/**/*.stories.ts*", "src/**/*test.ts*"]
+}

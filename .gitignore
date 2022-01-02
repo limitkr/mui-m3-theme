@@ -1,0 +1,11 @@
+node_modules
+dist
+
+# packages
+*.tgz
+
+.DS_Store
+
+yarn-debug.log*
+yarn-error.log*
+.vscode/*
