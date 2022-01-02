@@ -8,6 +8,12 @@
 
 ## Quick Start
 
+### Install
+```
+npm i mui-m3-theme
+```
+
+### Usage
 ```tsx
 import React from "react";
 import { ThemeProvider, CssBaseLine } from "@mui/material";
