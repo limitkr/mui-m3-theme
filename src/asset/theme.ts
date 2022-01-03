@@ -15,7 +15,7 @@ declare module '@mui/material/styles' {
     default: string;
     on: string;
     variant: string;
-    surfaceVariant: string;
+    onVariant: string;
   }
   interface SimplePaletteColorOptions {
     main: string;

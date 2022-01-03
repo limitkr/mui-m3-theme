@@ -10,10 +10,9 @@ import babel from '@rollup/plugin-babel';
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 import pkg from './package.json';
 
-// const packageJson = require('./package.json');
+process.env.BABEL_ENV = 'production';
 
-const INPUT_FILE_PATH = 'src/index.ts';
-const OUTPUT_NAME = 'Example';
+// const packageJson = require('./package.json');
 
 const GLOBALS = {
   react: 'React',
@@ -66,12 +65,14 @@ export default [
   {
     input: 'src/index.ts',
     output: [
+      /*
       {
         globals: GLOBALS,
         file: pkg.main,
         format: 'cjs',
         sourcemap: true,
       },
+      */
       {
         globals: GLOBALS,
         file: pkg.module,
