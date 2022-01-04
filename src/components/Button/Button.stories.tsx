@@ -1,7 +1,12 @@
-/* eslint-disable react/destructuring-assignment */
-/* eslint-disable react/function-component-definition */
 import React from 'react';
-import { Box, CssBaseline, Grid, Stack, ThemeProvider } from '@mui/material';
+import {
+  Box,
+  CssBaseline,
+  Grid,
+  Typography,
+  Stack,
+  ThemeProvider,
+} from '@mui/material';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { ColorResult, RGBColor, SketchPicker } from 'react-color';
 import {
@@ -40,6 +45,9 @@ const ButtonPreviewTemplate: ComponentStory<typeof Button> = (args) => {
           />
           <Grid container item spacing={2}>
             <Grid item xs>
+              <Typography sx={{ mb: 2 }} variant="h3" fontWeight="bold">
+                Buttons
+              </Typography>
               <Stack direction="row" spacing={2}>
                 <Button variant={args.variant} color="primary">
                   {args.children}

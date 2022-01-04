@@ -9,8 +9,13 @@
 ## Quick Start
 
 ### Install
-```
+```bash
 npm i mui-m3-theme
+```
+
+### Storybook Preview
+```bash
+yarn storybook
 ```
 
 ### Usage
@@ -66,16 +71,19 @@ export default function App() {
 ```
 
 ## Status
+### v0.2-beta.1
+Cards components status has been changed to 'Preview'.
+Chips components status has been chagned to 'Work In Process'.
 ### v0.1
-Button components status has been changed to 'preview'.
+Button components status has been changed to 'Preview'.
 
 - ### [Material Design 3 Components](https://m3.material.io/components/all-buttons)
 
 | Components        | Status       | Version |
 |-------------------|--------------|---------|
 | Buttons           | ⚡️Preview      |v0.1     |
-| Cards             | 🚧On progress |    -    |
-| Chips             | 🗒Planned     |    -    |
+| Cards             | ⚡️Preview      |v0.2     |
+| Chips             | 🚧WIP         |    -    |
 | Dialogs           | ❌            |    -    |
 | Navigation bar    | ❌            |    -    |
 | Navigation drawer | ❌            |    -    |

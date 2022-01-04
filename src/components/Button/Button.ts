@@ -4,7 +4,6 @@ import {
 } from '@mui/material';
 import { styled } from '@mui/material/styles';
 import chroma from 'chroma-js';
-import React from 'react';
 
 declare module '@mui/material/Button' {
   interface ButtonPropsColorOverrides {
