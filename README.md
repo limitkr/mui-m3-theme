@@ -88,12 +88,12 @@ export default function App() {
 
 | Components        | Status       | Version |
 |-------------------|--------------|---------|
-| Buttons           | ⚡️Preview      |v0.1     |
-| Cards             | ⚡️Preview      |v0.2-beta.1     |
+| Buttons           | 🚧WIP.        |v0.1     |
+| Cards             | 🚧WIP         |v0.2-beta.1     |
 | Chips             | 🚧WIP         |v0.2-beta.2     |
-| Dialogs           | On Progress   |    -    |
+| Dialogs           | ⚡️On Progress  |    -    |
 | Navigation bar    | ❌            |    -    |
-| Navigation drawer | ❌            |    -    |
+| Navigation drawer | 🗒Planned     |    -    |
 | Navigation rail   | ❌            |    -    |
 | Top app bar       | 🗒Planned     |    -    |
 | Widgets           | ❌            |    -    |
