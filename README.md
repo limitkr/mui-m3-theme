@@ -10,10 +10,14 @@
 
 ### Install
 ```bash
+# using npm:
 npm i mui-m3-theme
+# or using yarn package manager:
+yarn add mui-m3-theme
 ```
 
 ### Storybook Preview
+You can testing on storybook. just simply run:
 ```bash
 yarn storybook
 ```
@@ -71,22 +75,25 @@ export default function App() {
 ```
 
 ## Status
+### v0.2-beta.2
+- Chips component status has been changed to 'Work In Process'.
+- Dialogs component status has been changed to 'On Process'.
 ### v0.2-beta.1
-Cards components status has been changed to 'Preview'.
-Chips components status has been chagned to 'Work In Process'.
+- Cards component status has been changed to 'Preview'.
+- Chips component status has been chagned to 'On Progress'.
 ### v0.1
-Button components status has been changed to 'Preview'.
+- Button component status has been changed to 'Preview'.
 
 - ### [Material Design 3 Components](https://m3.material.io/components/all-buttons)
 
 | Components        | Status       | Version |
 |-------------------|--------------|---------|
-| Buttons           | ⚡️Preview      |v0.1     |
-| Cards             | ⚡️Preview      |v0.2     |
-| Chips             | 🚧WIP         |    -    |
-| Dialogs           | ❌            |    -    |
+| Buttons           | 🚧WIP        |v0.1     |
+| Cards             | 🚧WIP         |v0.2-beta.1     |
+| Chips             | 🚧WIP         |v0.2-beta.2     |
+| Dialogs           | ⚡️On Progress  |    -    |
 | Navigation bar    | ❌            |    -    |
-| Navigation drawer | ❌            |    -    |
+| Navigation drawer | 🗒Planned     |    -    |
 | Navigation rail   | ❌            |    -    |
 | Top app bar       | 🗒Planned     |    -    |
 | Widgets           | ❌            |    -    |
