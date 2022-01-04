@@ -88,7 +88,7 @@ export default function App() {
 
 | Components        | Status       | Version |
 |-------------------|--------------|---------|
-| Buttons           | 🚧WIP.        |v0.1     |
+| Buttons           | 🚧WIP        |v0.1     |
 | Cards             | 🚧WIP         |v0.2-beta.1     |
 | Chips             | 🚧WIP         |v0.2-beta.2     |
 | Dialogs           | ⚡️On Progress  |    -    |
