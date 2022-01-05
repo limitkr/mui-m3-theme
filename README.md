@@ -61,7 +61,7 @@ export default function App() {
     a: 1,
   });
   const m3Palette = createM3Palette(hexColor);
-  const m3Theme = createMaterialDesign3Theme(m3Palette);
+  const myTheme = createMaterialDesign3Theme(m3Palette);
 
   return (
     <ThemeProvider theme={myTheme}>
