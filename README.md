@@ -44,7 +44,7 @@ If you want to use custom color theme, refer to the ['Create Your Theme'](#creat
 
 ```tsx
 import React from "react";
-import { ThemeProvider } from "@mui/material";
+import { ThemeProvider, CssBaseline } from "@mui/material";
 
 import {
   createM3Palette,
