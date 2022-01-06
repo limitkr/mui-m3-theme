@@ -60,7 +60,7 @@ export default function App() {
     b: 164,
     a: 1,
   });
-  const m3Palette = createM3Palette(hexColor);
+  const m3Palette = createM3Palette(rgbColor);
   const myTheme = createMaterialDesign3Theme(m3Palette);
 
   return (
