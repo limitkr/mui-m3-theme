@@ -32,7 +32,7 @@ import { MaterialDesign3Theme, Button } from "mui-m3-theme";
 export default function App() {
   <ThemeProvider theme={MaterialDesign3Theme}>
     <CssBaseline />
-    <Button color="primary" variant="elevated">Elevated button</ElevatedButton>
+    <Button color="primary" variant="elevated">Elevated button</Button>
   </ThemeProvider>
 }
 ```
