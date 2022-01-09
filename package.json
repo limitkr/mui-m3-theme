@@ -1,6 +1,6 @@
 {
   "name": "mui-m3-theme",
-  "version": "0.2.0-beta.2",
+  "version": "0.2.0-beta.3",
   "description": "Material Design 3(Material You) theme for MUI react components",
   "keywords": [
     "material-ui",
@@ -52,8 +52,7 @@
     "@storybook/addon-essentials": "^6.4.9",
     "@storybook/addon-links": "^6.4.9",
     "@storybook/builder-webpack5": "^6.4.9",
-    "@storybook/manager-webpack5": "^6.4.9",
-    
+    "@storybook/manager-webpack5": "^6.4.9", 
     "@types/jest": "^27.4.0",
     "@types/react": "^17.0.38",
     "@types/react-color": "^3.0.6",
