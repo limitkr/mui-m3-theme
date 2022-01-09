@@ -132,4 +132,8 @@ const Button = styled(MuiButton, {
   }),
 })) as React.ComponentType<MuiButtonProps>;
 
+Button.defaultProps = {
+  color: 'primary',
+};
+
 export default Button;

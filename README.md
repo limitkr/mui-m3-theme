@@ -73,11 +73,14 @@ export default function App() {
   )
 }
 ```
-
+<!-- Status -> ⚡️On Progress 🚧WIP 🗒Planned ❌-->
 ## Status
+### v0.2-beta.3
+- Dialogs component status has been changed to 'Work In Process'.
+- Navigation drawer component status has been chagned to 'On Progress'.
 ### v0.2-beta.2
 - Chips component status has been changed to 'Work In Process'.
-- Dialogs component status has been changed to 'On Process'.
+- Dialogs component status has been changed to 'On Progress'.
 ### v0.2-beta.1
 - Cards component status has been changed to 'Preview'.
 - Chips component status has been chagned to 'On Progress'.
@@ -91,9 +94,9 @@ export default function App() {
 | Buttons           | 🚧WIP        |v0.1     |
 | Cards             | 🚧WIP         |v0.2-beta.1     |
 | Chips             | 🚧WIP         |v0.2-beta.2     |
-| Dialogs           | ⚡️On Progress  |    -    |
-| Navigation bar    | ❌            |    -    |
-| Navigation drawer | 🗒Planned     |    -    |
+| Dialogs           | 🚧WIP         |v0.2-beta.3    |
+| Navigation bar    | 🗒Planned     |    -    |
+| Navigation drawer | ⚡️On Progress |    -    |
 | Navigation rail   | ❌            |    -    |
 | Top app bar       | 🗒Planned     |    -    |
 | Widgets           | ❌            |    -    |
@@ -101,3 +104,8 @@ export default function App() {
 - ### [MUI Components](https://mui.com/getting-started/supported-components/)
 
 There are no specific plans yet.
+
+
+## Tutorials
+
+Coming soon..
