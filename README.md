@@ -75,29 +75,17 @@ export default function App() {
 ```
 <!-- Status -> ⚡️On Progress 🚧WIP 🗒Planned ❌-->
 ## Status
-### v0.2-beta.3
-- Dialogs component status has been changed to 'Work In Process'.
-- Navigation drawer component status has been chagned to 'On Progress'.
-### v0.2-beta.2
-- Chips component status has been changed to 'Work In Process'.
-- Dialogs component status has been changed to 'On Progress'.
-### v0.2-beta.1
-- Cards component status has been changed to 'Preview'.
-- Chips component status has been chagned to 'On Progress'.
-### v0.1
-- Button component status has been changed to 'Preview'.
-
 - ### [Material Design 3 Components](https://m3.material.io/components/all-buttons)
 
 | Components        | Status       | Version |
 |-------------------|--------------|---------|
 | Buttons           | 🚧WIP        |v0.1     |
-| Cards             | 🚧WIP         |v0.2-beta.1     |
-| Chips             | 🚧WIP         |v0.2-beta.2     |
-| Dialogs           | 🚧WIP         |v0.2-beta.3    |
-| Navigation bar    | 🗒Planned     |    -    |
-| Navigation drawer | ⚡️On Progress |    -    |
-| Navigation rail   | ❌            |    -    |
+| Cards             | 🚧WIP        |v0.2     |
+| Chips             | 🚧WIP        |v0.2     |
+| Dialogs           | 🚧WIP        |v0.2     |
+| Navigation bar    | ⚡️On Progress|    -    |
+| Navigation drawer | 🚧WIP         |v0.2    |
+| Navigation rail   | 🗒Planned     |    -    |
 | Top app bar       | 🗒Planned     |    -    |
 | Widgets           | ❌            |    -    |
 
@@ -108,4 +96,4 @@ There are no specific plans yet.
 
 ## Tutorials
 
-Coming soon..
+Work In Process. Preview is [here](https://github.com/limitkr/mui-m3-theme/wiki/Tutorials).
