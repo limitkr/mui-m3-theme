@@ -1,6 +1,9 @@
 # mui-m3-theme
 [Material Design 3](https://m3.material.io/) components, theme for [MUI](https://github.com/mui-org/material-ui) react components.
 
+# ⚠️Deprecated!
+This project has been deprecated. The MUI(previously Material-UI) team is preparing to support Material Design 3(Material You) in MUI V6.
+
 ## Demo
 
 - [Dynamic Color System](https://limitkr.github.io/palette)
